@@ -1,0 +1,7 @@
+# Local tooling / session data
+.commandcode/
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+*.swp
