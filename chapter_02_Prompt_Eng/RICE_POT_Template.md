@@ -1,7 +1,0 @@
-ROLE: [Expertise]
-Instructions: [Purpose]
-CONTEXT: [Background info]
-EXPECTED: [Success criteria]/ EXAMPLE: [Give 1-2- examples]
-PARAMETERS: [Constraints]
-OUTPUT: [Format]
-TONE: [Specific instruction]
