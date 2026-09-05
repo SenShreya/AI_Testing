@@ -5,3 +5,11 @@
 Thumbs.db
 .DS_Store
 *.swp
+
+# Secrets / local config (chapter_03_Jira_TestCase)
+.env
+chapter_03_Jira_TestCase/config/settings.json
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
