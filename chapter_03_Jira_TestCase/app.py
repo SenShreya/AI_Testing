@@ -113,7 +113,7 @@ def render_chat_panel() -> None:
             "Your request", label_visibility="collapsed",
             placeholder="create tc for VWO-49")
         num_cases = cols[1].number_input("Count", min_value=1, max_value=50,
-                                         value=5, label_visibility="collapsed")
+                                         value=25, label_visibility="collapsed")
         submitted = cols[2].form_submit_button("Send", type="primary",
                                                use_container_width=True)
 
